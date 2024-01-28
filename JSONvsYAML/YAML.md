@@ -29,7 +29,7 @@ El formato se lleva utilizando desde 2001 y existen utilidades para procesar YAM
 
 ### Accesos
 
-[JSONvsYAML](./JSONvsYAML.md)
+[JSON vs YAML](./JSONvsYAML.md)
 
 [Home](/Readme.md)
 
