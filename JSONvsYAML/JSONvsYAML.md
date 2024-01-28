@@ -5,11 +5,10 @@ Esta carpeta contiene las diferencias y ventajas entre ambos tipos de formato de
 * [Historia](./JSON.md#Historia)
 * [Caracteristicas](./JSON.md#Caracteristicas)
 * [Ejemplos](./JSON.md#Ejemplos)
+  
 ## YAML
 * [Historia](./YAML.md#Historia)
 * [Caracteristicas](./YAML.md#Caracteristicas)
 * [Ejemplos](./YAML.md#Ejemplos)
-## Comparativa
-* [Comparación](./Comparativa.md#Comparación)
 
 [Home](/README.md)
