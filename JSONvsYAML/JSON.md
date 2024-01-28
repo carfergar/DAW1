@@ -38,7 +38,7 @@ Hoy en día, JSON es uno de los formatos de almacenamiento de datos más popular
 
 ### Accesos
 
-[JSONvsYAML](./JSONvsYAML.md)
+[JSON vs YAML](./JSONvsYAML.md)
 
 [Home](/Readme.md)
 
